@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document 
+   For custom navbar
+*/
+
+.navbar-custom {
+	background-color:#2E3192;
+	border-color:#ED1B24;
+}
+.navbar-custom .navbar-brand {
+	color:#FFFFFF;
+}
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus {
+	color: #ED1B24;
+}
+.navbar-custom .navbar-text {
+	color: #03add8;
+}
+.navbar-custom .navbar-top-links > li > a {
+	color: #FFFFFF;
+}
+.navbar-custom .navbar-top-links > li > a:hover,
+.navbar-custom .navbar-top-links > li > a:focus {
+	color: #ED1B24;
+}
